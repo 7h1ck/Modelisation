@@ -4868,7 +4868,7 @@
 											"top": 463,
 											"width": 175,
 											"height": 13,
-											"text": "Partie"
+											"text": "jeu"
 										},
 										{
 											"_type": "LabelView",
@@ -5196,9 +5196,9 @@
 										"$ref": "AAAAAAFxwu6s26bqEls="
 									},
 									"font": "Arial;13;0",
-									"left": 1001,
+									"left": 1000,
 									"top": 360,
-									"width": 19.5126953125,
+									"width": 20,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -5258,9 +5258,9 @@
 										"$ref": "AAAAAAFxwu6s26br66Y="
 									},
 									"font": "Arial;13;0",
-									"left": 1002,
+									"left": 1001,
 									"top": 427,
-									"width": 19.5126953125,
+									"width": 20,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -5529,9 +5529,9 @@
 										"$ref": "AAAAAAFxwvCj0qedXEU="
 									},
 									"font": "Arial;13;0",
-									"left": 904,
+									"left": 903,
 									"top": 551,
-									"width": 19.5126953125,
+									"width": 20,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -5800,9 +5800,9 @@
 										"$ref": "AAAAAAFxwvN8sKhde4M="
 									},
 									"font": "Arial;13;0",
-									"left": 896,
+									"left": 895,
 									"top": 271,
-									"width": 19.5126953125,
+									"width": 20,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -6043,7 +6043,8 @@
 								"$ref": "AAAAAAFxwsfswWhUqZ4="
 							},
 							"name": "id",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -6072,7 +6073,8 @@
 								"$ref": "AAAAAAFxwsfswWhUqZ4="
 							},
 							"name": "points",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -6193,7 +6195,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFxwsPcf2c9tSs="
 					},
-					"name": "Partie",
+					"name": "jeu",
 					"attributes": [
 						{
 							"_type": "UMLAttribute",
@@ -6202,7 +6204,8 @@
 								"$ref": "AAAAAAFxwuClemrBi1g="
 							},
 							"name": "id",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
